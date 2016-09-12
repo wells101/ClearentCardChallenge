@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargeCards", "ChargeCards\ChargeCards.csproj", "{F81DF521-B037-4B9E-8A7B-058D4F05AFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargeCardTests", "ChargeCardTests\ChargeCardTests.csproj", "{8F2FB89F-9DA0-465C-A323-6AF4C9D049E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{DB87A3CE-C970-4CC3-9AFE-C5C20F04195B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F792ED44-B8F1-48C2-91E9-78B75B99D286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81DF521-B037-4B9E-8A7B-058D4F05AFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81DF521-B037-4B9E-8A7B-058D4F05AFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81DF521-B037-4B9E-8A7B-058D4F05AFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81DF521-B037-4B9E-8A7B-058D4F05AFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2FB89F-9DA0-465C-A323-6AF4C9D049E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2FB89F-9DA0-465C-A323-6AF4C9D049E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2FB89F-9DA0-465C-A323-6AF4C9D049E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2FB89F-9DA0-465C-A323-6AF4C9D049E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F81DF521-B037-4B9E-8A7B-058D4F05AFD5} = {DB87A3CE-C970-4CC3-9AFE-C5C20F04195B}
+		{8F2FB89F-9DA0-465C-A323-6AF4C9D049E2} = {F792ED44-B8F1-48C2-91E9-78B75B99D286}
+	EndGlobalSection
+EndGlobal

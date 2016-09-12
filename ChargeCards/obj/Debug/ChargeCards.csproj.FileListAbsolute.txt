@@ -1,0 +1,5 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCards\bin\Debug\ChargeCards.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCards\bin\Debug\ChargeCards.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCards\obj\Debug\ChargeCards.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCards\obj\Debug\ChargeCards.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCards\obj\Debug\ChargeCards.csprojResolveAssemblyReference.cache

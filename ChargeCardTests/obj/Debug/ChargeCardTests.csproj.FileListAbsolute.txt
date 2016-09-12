@@ -1,0 +1,9 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\bin\Debug\ChargeCardTests.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\bin\Debug\ChargeCardTests.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\bin\Debug\ChargeCards.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\bin\Debug\nunit.framework.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\bin\Debug\ChargeCards.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\bin\Debug\nunit.framework.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\obj\Debug\ChargeCardTests.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\obj\Debug\ChargeCardTests.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\ClearentCardChallenge\ChargeCardTests\obj\Debug\ChargeCardTests.pdb
